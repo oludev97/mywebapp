@@ -1,0 +1,6 @@
+runtime: java11
+instance_class: F1
+env: standard
+entrypoint: java -jar target/your-app.jar
+
+
